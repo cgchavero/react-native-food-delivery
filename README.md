@@ -32,3 +32,7 @@ exp build:android
 exp build:ios
 ```
 # react-native-food-delivery
+
+# note from cgchavero
+
+I just make a expo SDK progresive update to 35.0.0 but empty car it is not working
